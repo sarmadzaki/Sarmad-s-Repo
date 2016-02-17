@@ -1,9 +1,8 @@
 # Sarmad-s-Repo
 creating my very first repo in Github
-## Heading 2
-we will learn in this class is following.
 
-* Git
-* Github
-* typescrypt
-* HTML
+My name is sarmad zaki and i'm learning git and github
+
+My facebook profile is here
+
+https://facebook.com/sarmad.zaki21
