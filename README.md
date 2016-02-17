@@ -3,6 +3,10 @@ creating my very first repo in Github
 
 My name is sarmad zaki and i'm learning git and github
 
-My facebook profile is here
 
-https://facebook.com/sarmad.zaki21
+
+[Facebook] https://facebook.com/sarmad.zaki21
+
+[Twitter] https://twitter.com/isarmadzaki
+
+[Instagram] https://instagram.com/isarmadzaki
