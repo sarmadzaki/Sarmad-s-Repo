@@ -4,7 +4,8 @@
 My name is sarmad zaki and i'm learning git and github
 
 *sarmad zaki*
-**Sarmad zaki**
+
+**Zaki Ahmed**
 
 
 * [Facebook] (https://facebook.com/sarmad.zaki21)
