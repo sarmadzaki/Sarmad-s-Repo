@@ -7,7 +7,7 @@ My name is sarmad zaki and i'm learning git and github
 
 My social profiles below check it out,
 
-* [Facebook] (https://facebook.com/sarmad.zaki21)
+* [Facebook] (https://facebook.com/sarmad.zaki21) (https://github.com/sarmadzaki/Sarmad-s-Repo.git)
 
 * [Twitter] (https://twitter.com/isarmadzaki)
 
